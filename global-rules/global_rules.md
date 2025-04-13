@@ -1,6 +1,7 @@
 ## Write code, not docs
 
 - Your task is to generate code. Do not create documentation (including README.md) unless explicitly asked to do so by the user
+- The user may use a file like prompt.md or task.md to instruct you in your task. If you can find that at the root of the repo, read it and infer it to be the user's prompt
 
 ## Your environment
 

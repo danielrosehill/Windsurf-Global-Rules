@@ -8,9 +8,31 @@ This repository contains a set of global rules that customize the behavior of th
 
 ## Contents
 
-- `global_rules.md` - The main collection of rules for Windsurf IDE
-- `to-test.md` - Rules being tested before integration
-- `ui-text.md` - Rules related to UI text formatting and display
+### Global Rules
+- `global-rules/global_rules.md` - The main collection of rules for Windsurf IDE
+
+### Local Rules
+- `local-rules/ui_ux_rules.md` - Rules for UI/UX review and implementation
+- `local-rules/educational_rules.md` - Rules for explaining code rather than editing it
+- `local-rules/css_styling_rules.md` - Rules for enhancing CSS and appearance
+- `local-rules/documentation_rules.md` - Rules for documentation generation
+- `local-rules/organization_rules.md` - Rules for repository organization
+- `local-rules/security_review_rules.md` - Rules for security and PII review
+- `local-rules/debugging_rules.md` - Rules for debugging assistance
+- `local-rules/feature_addition_rules.md` - Rules for adding new features
+- `local-rules/cleanup_rules.md` - Rules for removing old code and documentation
+
+#### User Interaction Rules
+- `local-rules/user-interaction/shakespeare.md` - Shakespeare-style interaction rules
+- `local-rules/user-interaction/rhyming.md` - Rhyming interaction rules
+- `local-rules/user-interaction/no-idea.md` - Miscellaneous interaction rules
+
+### Reference Files
+- `ref/ui-text.md` - Reference for UI text formatting and display
+- `ref/docs.md` - Documentation reference
+
+### Testing
+- `for-testing/to-test.md` - Rules being tested before integration
 
 ## Rule Categories
 
@@ -36,5 +58,3 @@ For additional inspiration, check out these other Windsurf rule collections:
 
 - [Mearley's Windsurf Rules](https://gist.github.com/mearleycf/5d32bc345c67696928db9ebc987241c7)
 - [Kinopeee's Windsurf Rules](https://github.com/kinopeee/windsurfrules)
-
- 
